@@ -12,6 +12,10 @@ public class StudentProfile {
             System.out.println("Student ID: S87402");
             //Print the student programme to the console
             System.out.println("Programme: Bachelor of Computer Science(Software Engineering");
+            //Print the semester
+            System.out.println("Semester: Semester 1");
+            //Print the favourite language
+            System.out.println("Favourite Language: Java");
            
         } // End of main method
     
